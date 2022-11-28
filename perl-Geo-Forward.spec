@@ -46,7 +46,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(-,root,root,-)
-%doc Changes LICENSE README
+%doc Changes LICENSE README.md
 %{perl_vendorlib}/*
 %{_mandir}/man3/*
 

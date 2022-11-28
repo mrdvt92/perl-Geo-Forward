@@ -2,7 +2,8 @@ Changes
 LICENSE
 Makefile.PL
 MANIFEST
-README
+README.md
+CONTRIBUTING.md
 doc/forward.for
 lib/Geo/Forward.pm
 t/001_load.t
